@@ -24,4 +24,4 @@ Check out the live application here: [https://chatbot-lw0d.onrender.com](https:/
 * `requirements.txt` - Required Python libraries.
 
 ---
-Developed by **Tamil Elakiya V** | 2nd Year B.Tech (AI & DS) @ RVCE
+Developed by **Mutharsi U** | 2nd Year B.Tech (AI & DS) @ RVCE
